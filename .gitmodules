@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MMRcaseselection"]
+	path = MMRcaseselection
+	url = https://github.com/ingorohlfing/mmrcaseselection
+	shallow = true
+	registered = true
+[submodule "QCAcluster"]
+	path = QCAcluster
+	url = https://github.com/ingorohlfing/qcacluster
+	shallow = true
+	registered = true
+[submodule "qcapower"]
+	path = qcapower
+	url = https://github.com/ingorohlfing/qcapower
+	shallow = true
+	registered = true
