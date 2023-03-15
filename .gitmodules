@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "qcapower"]
-	path = qcapower
-	url = https://github.com/ingorohlfing/qcapower
-	shallow = true
-	registered = true
 [submodule "MMRcaseselection"]
 	path = MMRcaseselection
 	url = https://github.com/ingorohlfing/mmrcaseselection
@@ -16,5 +11,10 @@
 [submodule "QCAcluster"]
 	path = QCAcluster
 	url = https://github.com/ingorohlfing/qcacluster
+	shallow = true
+	registered = true
+[submodule "qcapower"]
+	path = qcapower
+	url = https://github.com/ingorohlfing/qcapower
 	shallow = true
 	registered = true

@@ -1,14 +1,14 @@
 [
   {
-    "package": "qcapower",
-    "oncran": true
-  },
-  {
     "package": "MMRcaseselection",
     "oncran": true
   },
   {
     "package": "QCAcluster",
+    "oncran": true
+  },
+  {
+    "package": "qcapower",
     "oncran": true
   }
 ]
