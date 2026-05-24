@@ -5,6 +5,9 @@
 [submodule "MMRcaseselection"]
 	path = MMRcaseselection
 	url = https://github.com/ingorohlfing/mmrcaseselection
+[submodule "QCAcluster"]
+	path = QCAcluster
+	url = https://github.com/ingorohlfing/qcacluster
 [submodule "qcapower"]
 	path = qcapower
 	url = https://github.com/ingorohlfing/qcapower
